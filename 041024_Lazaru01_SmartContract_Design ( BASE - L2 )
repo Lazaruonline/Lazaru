@@ -259,7 +259,7 @@ contract F1000F5T is ERC20, Ownable {
     receive() external payable {}
 
     // -----------------------------------------
-    // Full List of Key Features
+    // Full List of Key Features.
     // -----------------------------------------
     /*
     Full List of Key Functions:
